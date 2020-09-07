@@ -1,0 +1,28 @@
+﻿@model MovieRatingWebApp.Models.Movie
+
+<div style="font-size:90%">
+    <div>
+        <p class="text-muted">
+            5 Star (<span id="r5">@Model.TotalFive</span>),
+            4 Star (<span id="r4">@Model.TotalFour</span>),
+            3 Star (<span id="r3">@Model.TotalThree</span>),
+            2 Star (<span id="r2">@Model.TotalTwo</span>),
+            1 Star (<span id="r1">@Model.TotalOne</span>)
+        </p>
+    </div>
+    <div>
+        <div class="mb-0" style="color: #984806;">Rate this Movie</div>
+
+        <div class="text-muted mt-0"> Tell the world what you think</div>
+
+        <img src="~/images/star-empty.png" alt="★" width="30" align="middle" id="1" class="rating" movieId="@Model.ID" />
+
+        <img src="~/images/star-empty.png" alt="★" width="30" align="middle" id="2" class="rating" movieId="@Model.ID" />
+
+        <img src="~/images/star-empty.png" alt="★" width="30" align="middle" id="3" class="rating" movieId="@Model.ID" />
+
+        <img src="~/images/star-empty.png" alt="★" width="30" align="middle" id="4" class="rating" movieId="@Model.ID" />
+
+        <img src="~/images/star-empty.png" alt="★" width="30" align="middle" id="5" class="rating" movieId="@Model.ID" />
+    </div>
+</div>

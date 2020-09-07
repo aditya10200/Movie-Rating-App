@@ -1,0 +1,72 @@
+C:\Users\tony\Source\Repos\MovieRatingWebApp\MovieRatingWebApp\bin\Debug\netcoreapp2.0\appsettings.Development.json
+C:\Users\tony\Source\Repos\MovieRatingWebApp\MovieRatingWebApp\bin\Debug\netcoreapp2.0\appsettings.json
+C:\Users\tony\Source\Repos\MovieRatingWebApp\MovieRatingWebApp\bin\Debug\netcoreapp2.0\bower.json
+C:\Users\tony\Source\Repos\MovieRatingWebApp\MovieRatingWebApp\bin\Debug\netcoreapp2.0\bundleconfig.json
+C:\Users\tony\Source\Repos\MovieRatingWebApp\MovieRatingWebApp\bin\Debug\netcoreapp2.0\Properties\launchSettings.json
+C:\Users\tony\Source\Repos\MovieRatingWebApp\MovieRatingWebApp\bin\Debug\netcoreapp2.0\MovieRatingWebApp.deps.json
+C:\Users\tony\Source\Repos\MovieRatingWebApp\MovieRatingWebApp\bin\Debug\netcoreapp2.0\MovieRatingWebApp.runtimeconfig.json
+C:\Users\tony\Source\Repos\MovieRatingWebApp\MovieRatingWebApp\bin\Debug\netcoreapp2.0\MovieRatingWebApp.runtimeconfig.dev.json
+C:\Users\tony\Source\Repos\MovieRatingWebApp\MovieRatingWebApp\bin\Debug\netcoreapp2.0\MovieRatingWebApp.dll
+C:\Users\tony\Source\Repos\MovieRatingWebApp\MovieRatingWebApp\bin\Debug\netcoreapp2.0\MovieRatingWebApp.pdb
+C:\Users\tony\Source\Repos\MovieRatingWebApp\MovieRatingWebApp\obj\Debug\netcoreapp2.0\UserSecretsAssemblyInfo.cs
+C:\Users\tony\Source\Repos\MovieRatingWebApp\MovieRatingWebApp\obj\Debug\netcoreapp2.0\MovieRatingWebApp.AssemblyInfoInputs.cache
+C:\Users\tony\Source\Repos\MovieRatingWebApp\MovieRatingWebApp\obj\Debug\netcoreapp2.0\MovieRatingWebApp.AssemblyInfo.cs
+C:\Users\tony\Source\Repos\MovieRatingWebApp\MovieRatingWebApp\obj\Debug\netcoreapp2.0\MovieRatingWebApp.dll
+C:\Users\tony\Source\Repos\MovieRatingWebApp\MovieRatingWebApp\obj\Debug\netcoreapp2.0\MovieRatingWebApp.pdb
+C:\Users\tony\Source\Repos\MovieRatingWebApp\MovieRatingWebApp\obj\Debug\netcoreapp2.0\MovieRatingWebApp.csprojAssemblyReference.cache
+C:\Users\Owner\Desktop\Web Project\Web Project\MovieRatingWebApp\MovieRatingWebApp\MovieRatingWebApp\bin\Debug\netcoreapp2.0\MovieRatingWebApp.deps.json
+C:\Users\Owner\Desktop\Web Project\Web Project\MovieRatingWebApp\MovieRatingWebApp\MovieRatingWebApp\bin\Debug\netcoreapp2.0\MovieRatingWebApp.runtimeconfig.json
+C:\Users\Owner\Desktop\Web Project\Web Project\MovieRatingWebApp\MovieRatingWebApp\MovieRatingWebApp\bin\Debug\netcoreapp2.0\MovieRatingWebApp.runtimeconfig.dev.json
+C:\Users\Owner\Desktop\Web Project\Web Project\MovieRatingWebApp\MovieRatingWebApp\MovieRatingWebApp\bin\Debug\netcoreapp2.0\MovieRatingWebApp.dll
+C:\Users\Owner\Desktop\Web Project\Web Project\MovieRatingWebApp\MovieRatingWebApp\MovieRatingWebApp\bin\Debug\netcoreapp2.0\MovieRatingWebApp.pdb
+C:\Users\Owner\Desktop\Web Project\Web Project\MovieRatingWebApp\MovieRatingWebApp\MovieRatingWebApp\obj\Debug\netcoreapp2.0\MovieRatingWebApp.csprojAssemblyReference.cache
+C:\Users\Owner\Desktop\Web Project\Web Project\MovieRatingWebApp\MovieRatingWebApp\MovieRatingWebApp\obj\Debug\netcoreapp2.0\MovieRatingWebApp.csproj.CoreCompileInputs.cache
+C:\Users\Owner\Desktop\Web Project\Web Project\MovieRatingWebApp\MovieRatingWebApp\MovieRatingWebApp\obj\Debug\netcoreapp2.0\UserSecretsAssemblyInfo.cs
+C:\Users\Owner\Desktop\Web Project\Web Project\MovieRatingWebApp\MovieRatingWebApp\MovieRatingWebApp\obj\Debug\netcoreapp2.0\MovieRatingWebApp.AssemblyInfoInputs.cache
+C:\Users\Owner\Desktop\Web Project\Web Project\MovieRatingWebApp\MovieRatingWebApp\MovieRatingWebApp\obj\Debug\netcoreapp2.0\MovieRatingWebApp.AssemblyInfo.cs
+C:\Users\Owner\Desktop\Web Project\Web Project\MovieRatingWebApp\MovieRatingWebApp\MovieRatingWebApp\obj\Debug\netcoreapp2.0\MovieRatingWebApp.dll
+C:\Users\Owner\Desktop\Web Project\Web Project\MovieRatingWebApp\MovieRatingWebApp\MovieRatingWebApp\obj\Debug\netcoreapp2.0\MovieRatingWebApp.pdb
+\\Mac\Home\Documents\Web Project\Web Project\MovieRatingWebApp\MovieRatingWebApp\MovieRatingWebApp\bin\Debug\netcoreapp2.0\appsettings.Development.json
+\\Mac\Home\Documents\Web Project\Web Project\MovieRatingWebApp\MovieRatingWebApp\MovieRatingWebApp\bin\Debug\netcoreapp2.0\appsettings.json
+\\Mac\Home\Documents\Web Project\Web Project\MovieRatingWebApp\MovieRatingWebApp\MovieRatingWebApp\bin\Debug\netcoreapp2.0\bower.json
+\\Mac\Home\Documents\Web Project\Web Project\MovieRatingWebApp\MovieRatingWebApp\MovieRatingWebApp\bin\Debug\netcoreapp2.0\bundleconfig.json
+\\Mac\Home\Documents\Web Project\Web Project\MovieRatingWebApp\MovieRatingWebApp\MovieRatingWebApp\bin\Debug\netcoreapp2.0\Properties\launchSettings.json
+\\Mac\Home\Documents\Web Project\Web Project\MovieRatingWebApp\MovieRatingWebApp\MovieRatingWebApp\bin\Debug\netcoreapp2.0\MovieRatingWebApp.deps.json
+\\Mac\Home\Documents\Web Project\Web Project\MovieRatingWebApp\MovieRatingWebApp\MovieRatingWebApp\bin\Debug\netcoreapp2.0\MovieRatingWebApp.runtimeconfig.json
+\\Mac\Home\Documents\Web Project\Web Project\MovieRatingWebApp\MovieRatingWebApp\MovieRatingWebApp\bin\Debug\netcoreapp2.0\MovieRatingWebApp.runtimeconfig.dev.json
+\\Mac\Home\Documents\Web Project\Web Project\MovieRatingWebApp\MovieRatingWebApp\MovieRatingWebApp\bin\Debug\netcoreapp2.0\MovieRatingWebApp.dll
+\\Mac\Home\Documents\Web Project\Web Project\MovieRatingWebApp\MovieRatingWebApp\MovieRatingWebApp\bin\Debug\netcoreapp2.0\MovieRatingWebApp.pdb
+\\Mac\Home\Documents\Web Project\Web Project\MovieRatingWebApp\MovieRatingWebApp\MovieRatingWebApp\obj\Debug\netcoreapp2.0\MovieRatingWebApp.csprojAssemblyReference.cache
+\\Mac\Home\Documents\Web Project\Web Project\MovieRatingWebApp\MovieRatingWebApp\MovieRatingWebApp\obj\Debug\netcoreapp2.0\UserSecretsAssemblyInfo.cs
+\\Mac\Home\Documents\Web Project\Web Project\MovieRatingWebApp\MovieRatingWebApp\MovieRatingWebApp\obj\Debug\netcoreapp2.0\MovieRatingWebApp.AssemblyInfoInputs.cache
+\\Mac\Home\Documents\Web Project\Web Project\MovieRatingWebApp\MovieRatingWebApp\MovieRatingWebApp\obj\Debug\netcoreapp2.0\MovieRatingWebApp.AssemblyInfo.cs
+\\Mac\Home\Documents\Web Project\Web Project\MovieRatingWebApp\MovieRatingWebApp\MovieRatingWebApp\obj\Debug\netcoreapp2.0\MovieRatingWebApp.dll
+\\Mac\Home\Documents\Web Project\Web Project\MovieRatingWebApp\MovieRatingWebApp\MovieRatingWebApp\obj\Debug\netcoreapp2.0\MovieRatingWebApp.pdb
+C:\Users\noora\OneDrive\Desktop\MovieRatingWebApp\MovieRatingWebApp\MovieRatingWebApp\bin\Debug\netcoreapp2.0\MovieRatingWebApp.deps.json
+C:\Users\noora\OneDrive\Desktop\MovieRatingWebApp\MovieRatingWebApp\MovieRatingWebApp\bin\Debug\netcoreapp2.0\MovieRatingWebApp.runtimeconfig.json
+C:\Users\noora\OneDrive\Desktop\MovieRatingWebApp\MovieRatingWebApp\MovieRatingWebApp\bin\Debug\netcoreapp2.0\MovieRatingWebApp.runtimeconfig.dev.json
+C:\Users\noora\OneDrive\Desktop\MovieRatingWebApp\MovieRatingWebApp\MovieRatingWebApp\bin\Debug\netcoreapp2.0\MovieRatingWebApp.dll
+C:\Users\noora\OneDrive\Desktop\MovieRatingWebApp\MovieRatingWebApp\MovieRatingWebApp\bin\Debug\netcoreapp2.0\MovieRatingWebApp.pdb
+C:\Users\noora\OneDrive\Desktop\MovieRatingWebApp\MovieRatingWebApp\MovieRatingWebApp\obj\Debug\netcoreapp2.0\MovieRatingWebApp.csprojAssemblyReference.cache
+C:\Users\noora\OneDrive\Desktop\MovieRatingWebApp\MovieRatingWebApp\MovieRatingWebApp\obj\Debug\netcoreapp2.0\MovieRatingWebApp.csproj.CoreCompileInputs.cache
+C:\Users\noora\OneDrive\Desktop\MovieRatingWebApp\MovieRatingWebApp\MovieRatingWebApp\obj\Debug\netcoreapp2.0\UserSecretsAssemblyInfo.cs
+C:\Users\noora\OneDrive\Desktop\MovieRatingWebApp\MovieRatingWebApp\MovieRatingWebApp\obj\Debug\netcoreapp2.0\MovieRatingWebApp.AssemblyInfoInputs.cache
+C:\Users\noora\OneDrive\Desktop\MovieRatingWebApp\MovieRatingWebApp\MovieRatingWebApp\obj\Debug\netcoreapp2.0\MovieRatingWebApp.AssemblyInfo.cs
+C:\Users\noora\OneDrive\Desktop\MovieRatingWebApp\MovieRatingWebApp\MovieRatingWebApp\obj\Debug\netcoreapp2.0\MovieRatingWebApp.dll
+C:\Users\noora\OneDrive\Desktop\MovieRatingWebApp\MovieRatingWebApp\MovieRatingWebApp\obj\Debug\netcoreapp2.0\MovieRatingWebApp.pdb
+C:\Users\adity\Downloads\MovieRatingWebApp\MovieRatingWebApp\MovieRatingWebApp\MovieRatingWebApp\bin\Debug\netcoreapp2.0\appsettings.Development.json
+C:\Users\adity\Downloads\MovieRatingWebApp\MovieRatingWebApp\MovieRatingWebApp\MovieRatingWebApp\bin\Debug\netcoreapp2.0\appsettings.json
+C:\Users\adity\Downloads\MovieRatingWebApp\MovieRatingWebApp\MovieRatingWebApp\MovieRatingWebApp\bin\Debug\netcoreapp2.0\bower.json
+C:\Users\adity\Downloads\MovieRatingWebApp\MovieRatingWebApp\MovieRatingWebApp\MovieRatingWebApp\bin\Debug\netcoreapp2.0\bundleconfig.json
+C:\Users\adity\Downloads\MovieRatingWebApp\MovieRatingWebApp\MovieRatingWebApp\MovieRatingWebApp\bin\Debug\netcoreapp2.0\Properties\launchSettings.json
+C:\Users\adity\Downloads\MovieRatingWebApp\MovieRatingWebApp\MovieRatingWebApp\MovieRatingWebApp\bin\Debug\netcoreapp2.0\MovieRatingWebApp.deps.json
+C:\Users\adity\Downloads\MovieRatingWebApp\MovieRatingWebApp\MovieRatingWebApp\MovieRatingWebApp\bin\Debug\netcoreapp2.0\MovieRatingWebApp.runtimeconfig.json
+C:\Users\adity\Downloads\MovieRatingWebApp\MovieRatingWebApp\MovieRatingWebApp\MovieRatingWebApp\bin\Debug\netcoreapp2.0\MovieRatingWebApp.runtimeconfig.dev.json
+C:\Users\adity\Downloads\MovieRatingWebApp\MovieRatingWebApp\MovieRatingWebApp\MovieRatingWebApp\bin\Debug\netcoreapp2.0\MovieRatingWebApp.dll
+C:\Users\adity\Downloads\MovieRatingWebApp\MovieRatingWebApp\MovieRatingWebApp\MovieRatingWebApp\bin\Debug\netcoreapp2.0\MovieRatingWebApp.pdb
+C:\Users\adity\Downloads\MovieRatingWebApp\MovieRatingWebApp\MovieRatingWebApp\MovieRatingWebApp\obj\Debug\netcoreapp2.0\MovieRatingWebApp.csprojAssemblyReference.cache
+C:\Users\adity\Downloads\MovieRatingWebApp\MovieRatingWebApp\MovieRatingWebApp\MovieRatingWebApp\obj\Debug\netcoreapp2.0\UserSecretsAssemblyInfo.cs
+C:\Users\adity\Downloads\MovieRatingWebApp\MovieRatingWebApp\MovieRatingWebApp\MovieRatingWebApp\obj\Debug\netcoreapp2.0\MovieRatingWebApp.AssemblyInfoInputs.cache
+C:\Users\adity\Downloads\MovieRatingWebApp\MovieRatingWebApp\MovieRatingWebApp\MovieRatingWebApp\obj\Debug\netcoreapp2.0\MovieRatingWebApp.AssemblyInfo.cs
+C:\Users\adity\Downloads\MovieRatingWebApp\MovieRatingWebApp\MovieRatingWebApp\MovieRatingWebApp\obj\Debug\netcoreapp2.0\MovieRatingWebApp.dll
+C:\Users\adity\Downloads\MovieRatingWebApp\MovieRatingWebApp\MovieRatingWebApp\MovieRatingWebApp\obj\Debug\netcoreapp2.0\MovieRatingWebApp.pdb

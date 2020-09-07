@@ -1,0 +1,54 @@
+﻿@* model IEnumerable<MovieRatingWebApp.Models.Movie> *@
+
+@model MovieRatingWebApp.Models.MovieViewModel
+
+
+@{
+    ViewData["Title"] = "Index";
+}
+
+<div class="row">
+    <div class="col">
+        <form asp-controller="Movies" asp-action="Index" asp-area="" method="get">
+            <p>
+                <select asp-for="MovieGenre" asp-items="Model.Genres" class="form-control">
+                    <option value="">All</option>
+                </select>
+                <input type="search" asp-for="SearchString" class="form-control mr-sm-2" placeholder="Search" aria-label="Search" />
+                <input type="submit" value="Search" />
+            </p>
+        </form>
+    </div>
+</div>
+
+<div class="row">
+    <div class="col">
+        <table class="table  table-hover" id="moviesRating">
+            <tbody>
+                @foreach (var item in Model.Movies)
+                {
+                    <tr>
+                        <td>
+                            <div class="poster-thumbnail">
+                                <img src="@Url.Content(item.PosterImage)" alt="Thumbnail" class="img-thumbnail" />
+                            </div>
+                        </td>
+                        <td>
+                            <div>
+                                <h4 class="title-color" style="color: darkred">
+                                    <a asp-action="Details" asp-route-id="@item.ID">
+                                        @Html.DisplayFor(modelItem => item.Title)
+                                    </a>
+                                </h4>
+                                <p class="text-muted">Actor 1</p>
+
+                                @await Html.PartialAsync("_RatingPartial", item)
+
+                            </div>
+                        </td>
+                    </tr>
+                }
+            </tbody>
+        </table>
+    </div>
+</div>

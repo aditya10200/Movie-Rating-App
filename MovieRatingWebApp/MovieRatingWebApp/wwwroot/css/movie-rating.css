@@ -1,0 +1,69 @@
+﻿img.rating {
+    width: 20px;
+    height: 20px;
+}
+.poster-thumbnail {
+    width: 250px;
+    height: 150px;
+    overflow: hidden;
+    border: 1px solid #eee;
+}
+
+.popular-bg {
+    background-color: #833735;
+    height: 100%;
+    padding: 25px;
+}
+.popular-height {
+    height: 300px;
+    overflow: hidden;
+}
+
+.featured {
+    height: 150px;
+    overflow: hidden;
+}
+
+.img-full-width {
+    width: 100%;
+}
+
+.prom img, .scene img {
+    height: 300px;
+}
+
+/* Color */
+.title-color {
+    color: #984806;
+}
+.mt {
+    margin-top: 25px;
+}
+
+.mb {
+    margin-bottom: 25px;
+}
+
+.mr {
+    margin-right: 25px;
+}
+
+.ml {
+    margin-left: 25px;
+}
+
+.p {
+    padding: 25px;
+}
+
+.mrwa-header {
+    background-color: #833735;
+    border: none;
+}
+@media screen and (max-width: 767px) {
+    .scene {
+        margin-top: 25px;
+    }
+
+    
+}
